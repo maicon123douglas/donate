@@ -1,0 +1,35 @@
+header {
+    background-color: blue;
+    border: 2px solid blue; 
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+} 
+body {
+    background-image:"";
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#primeira{
+    margin-top: 80px;
+}
+
+footer img{
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  top
+}
